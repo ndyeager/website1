@@ -1,0 +1,49 @@
+.bg-body {
+    background: url('../img/beach-hd-cool-wallpaper.jpg') no-repeat center center fixed;
+    width: 100%;
+    height: auto;
+}
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+.bg-home {
+    padding: 40px 0px 40px;
+    background-color: #E80C7A;
+    border-bottom: 5px solid;
+    border-bottom-color: #008CFF;
+    border-top: 5px solid;
+    border-top-color: #008CFF;
+}
+
+.bg-img{
+    background: url('../img/high-resolation-nature-landscape-wallpaper.jpg') no-repeat center;
+}
+.bg-nav{
+    padding: 5px 0px 5px;
+
+}
+
+#logo{
+    margin-left: 40px;
+}
+
+.feat-img{
+    text-align: center;
+}
+.feat-text{
+    text-align: center;
+}
+
+.hp{
+    color: white;
+}
+
+#hp-text{
+    font-size: 36px;
+    color: white;
+}
